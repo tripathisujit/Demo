@@ -1,12 +1,4 @@
  ERP Software
-  
-This software can be described as a complete business software solution.It has module such as sales , purchase  ,inventory,Accounts. please check below demo link.
- 
-Project Demo
-http://softwaredubai.com/erp-demo.html
-
-Website 
-http://softwaredubai.com
  
 Main Modules
  
@@ -51,7 +43,7 @@ Main Features
 8.	average cost calculation
 9.	financial year closing
 10.	advance receipt
-•	Purchase
+â€¢	Purchase
 1.	Goods Receive Note
 2.	Purchase Comparison
 3.	Purchase Invoice
@@ -60,7 +52,7 @@ Main Features
 6.	Purchase Requisition
 7.	Purchase Return
 8.	Supplier Master
-•	Sales
+â€¢	Sales
 1.	Cash Sales
 2.	Cash Sales Return
 3.	Credit Sales
@@ -74,7 +66,7 @@ Main Features
 11.	Sales Order
 12.	Sales Quotation
 13.	Shipment Export Sales
-•	Inventory
+â€¢	Inventory
 1.	Brand Master
 2.	HS Code
 3.	Item Category
@@ -86,7 +78,7 @@ Main Features
 9.	Stock Request
 10.	Stock Transfer
 11.	Unit Master
-•	Accounts
+â€¢	Accounts
 1.	Bank Payment
 2.	Bank Reconcile
 3.	Cash Deposit
@@ -97,7 +89,7 @@ Main Features
 8.	Prepaid Expenses
 9.	Receipt
 10.	Receipt Advance
-•	HR & Payroll
+â€¢	HR & Payroll
 1.	Advance Loan
 2.	Attendance
 3.	Deduction
@@ -109,9 +101,9 @@ Main Features
 9.	Payroll
 10.	Season
 11.	Shift
-•	Project
+â€¢	Project
 1.	Project
-•	Control Panel
+â€¢	Control Panel
 1.	Account Settings
 2.	Authorization
 3.	Branch
@@ -125,10 +117,10 @@ Main Features
 11.	Role Assignment
 12.	Roles
 13.	Users
-•	Tax
+â€¢	Tax
 1.	Salary Tax
 2.	Tax Master
-•	Reports
+â€¢	Reports
 a.	Cash Sales Report
 Cash Sales Return
 Net Cash Sales
@@ -182,8 +174,3 @@ Bootstrap, Dapper ORM, Sql Server.
 Database: MS Sql 2008 R2.
 Reporting: Crystal report.
  
-
-
-Clients:
-Althahabi Atuo Spare Parts, Sharjah, UAE
-buhairat kalbal spare parts,fujairah,Dubai
